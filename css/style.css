@@ -1,0 +1,15 @@
+.background-politik {
+    background-color: red;
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.background-tekno {
+    background-color: blue;
+    background-image: linear-gradient(to bottom right, darkblue, black);
+    color: white;
+}
+
+img.gambar-preview {
+    margin: .5rem 0;
+    width: 100%;
+}
